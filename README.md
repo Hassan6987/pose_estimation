@@ -2,8 +2,27 @@
 
 Pose Estimation app is designed to meet the needs of health and fitness enthusiasts with aspecial focus on improving yoga practice. This initiative stemmed from the recognition of a major gap in the existing market. Although there are many powerful practices, these practices, although effective for practice, fall short of meeting the characteristics and needs of yoga practice.
 
-# ScreenShots
+# Key Feaures
+* Yoga Pose Tracking
+* Workout Tracking
+* Sleep Tracking
+* Food Tracking
 
+
+# Applications
+* Gym Automation
+* Home Workout
+* Health Monitoring
+* Physical Therapy
+* Fitness Hub
+* Dance & Sports Coaching
+
+
+# Built With
+* Flutter
+* Firebase
+* Deep Learning
+* Tflite
 
 # Pre Login
 <img src="https://github.com/Hassan6987/pose_estimation/blob/master/images/SS%20with%20Transparent%20Background/Untitled_design__3_-removebg-preview.png" height="600" width="300">---<img src="https://github.com/Hassan6987/pose_estimation/blob/master/images/SS%20with%20Transparent%20Background/Untitled_design__4_-removebg-preview.png" height="600" width="330">
